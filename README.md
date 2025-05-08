@@ -5,17 +5,6 @@ This repository contains implementations of various Artificial Intelligence algo
 
 ---
 
-## 📋 Table of Contents
-
-- **Assignment Details**
-- **Repository Structure**
-- **Installation and Setup**
-- **Usage**
-- **Contributors**
-- **License**
-
----
-
 ## 📝 **Assignment Details**
 
 - **Assignment 1: BFS and DFS Algorithms**  
@@ -40,37 +29,34 @@ This repository contains implementations of various Artificial Intelligence algo
 
 ---
 
-## 📁 **Repository Structure**
+## 📁 Repository Structure
 
+```text
 Artificial-Intelligence_Assignments/
 └── Ayush/
-├── 1_DFS_BFS/
-│ ├── a.out
-│ ├── Assignment1.cpp
-│ ├── viva
-│ └── working
-├── 2_A_Star_8Puzzle/
-│ ├── a.out
-│ ├── Assignment2.cpp
-│ ├── viva
-│ └── working
-├── 3_Greedy_Search/
-│ ├── Dijkstra
-│ ├── Job Scheduling Problem
-│ ├── Kruskal's Minimal Spanning Tree Algorithm
-│ ├── Prim's Minimal Spanning Tree Algorithm
-│ └── SelectionSort
-├── 4_N_Queen/
-│ ├── a.out
-│ ├── N_Queen.cpp
-│ ├── viva.md
-│ └── working
-└── 5_ChatBot/
-├── a.out
-├── chatbot.cpp
-├── viva.md
-└── working
-
-
-
----
+    ├── 1_DFS_BFS/
+    │   ├── a.out
+    │   ├── Assignment1.cpp
+    │   ├── viva
+    │   └── working
+    ├── 2_A_Star_8Puzzle/
+    │   ├── a.out
+    │   ├── Assignment2.cpp
+    │   ├── viva
+    │   └── working
+    ├── 3_Greedy_Search/
+    │   ├── Dijkstra
+    │   ├── Job Scheduling Problem
+    │   ├── Kruskal's Minimal Spanning Tree Algorithm
+    │   ├── Prim's Minimal Spanning Tree Algorithm
+    │   └── SelectionSort
+    ├── 4_N_Queen/
+    │   ├── a.out
+    │   ├── N_Queen.cpp
+    │   ├── viva.md
+    │   └── working
+    └── 5_ChatBot/
+        ├── a.out
+        ├── chatbot.cpp
+        ├── viva.md
+        └── working
